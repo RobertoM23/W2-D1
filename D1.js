@@ -29,7 +29,7 @@ console.log(myName)
 /* ESERCIZIO 3*/
 let number = 12
 let number2 = 20
-addition = number + number2
+let addition = number + number2
 console.log(addition)
 
 /* ESERCIZIO 4
